@@ -1,0 +1,14 @@
+:root {
+  /* cor-primary */
+  --dark: #0f241d;
+  --roxa: #cf05f2;
+  --cor-fundo: #f9f9f9;
+  /* font-family */
+  --poppins: "Poppins", sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
