@@ -3,8 +3,13 @@
   --dark: #0f241d;
   --roxa: #cf05f2;
   --cor-fundo: #f9f9f9;
+  --cor-shadow: #ddade5;
+  --preto: #000000;
+  --cinza: #767676;
+
   /* font-family */
   --poppins: "Poppins", sans-serif;
+  --dmSans: "DM Sans", sans-serif;
 }
 
 * {
